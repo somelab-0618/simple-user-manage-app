@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-### node_modulesのインストールは`yarn`で実施する
+### ※ node_modulesのインストールは`yarn`で実施する! ※
 
 In the project directory, you can run:
 
